@@ -1,5 +1,3 @@
-git@github.com:najda23/gradingsystem.git gradingsystem
-
 ## gradingsystem
 
 * As a student I want to see my grades, so that I can keep track of my progress.
