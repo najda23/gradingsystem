@@ -1,4 +1,4 @@
-## gradingsystem
+## gradingsystem!
 
 * As a student I want to see my grades, so that I can keep track of my progress.
 * As a teacher I want to be able to change grades, so that the system is always updated.
