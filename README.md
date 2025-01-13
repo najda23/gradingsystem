@@ -6,3 +6,4 @@
 * As a parent I want to be able to see my childs' grades so that I am able to see my childs' grade state.
 * As a teacher I want to b able to print the report cards so that I can hand them over to the students.
 
+![Image](Usecase.png)
